@@ -1,0 +1,2 @@
+from service.init_db_set import init_taipower_table
+init_taipower_table()

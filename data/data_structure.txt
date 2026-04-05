@@ -1,0 +1,6 @@
+層級路徑,原始欄位,建議轉換型別,說明
+records[0],curr_load,float,即時總負載
+records[0],curr_util_rate,int,目前使用率
+records[1],fore_peak_resv_rate,float,預估備轉率
+records[1],publish_time,datetime,民國年格式時間
+records[3],real_hr_peak_time,datetime,今日實績最高用電的時間點
